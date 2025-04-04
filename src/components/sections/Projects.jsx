@@ -30,7 +30,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://movie-genix.netlify.app/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   {" "}
